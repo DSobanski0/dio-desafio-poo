@@ -3,8 +3,6 @@ import br.com.dio.desafio.dominio.Curso;
 import br.com.dio.desafio.dominio.Dev;
 import br.com.dio.desafio.dominio.Mentoria;
 
-import java.time.LocalDate;
-
 public class Main {
     public static void main(String[] args) {
         Curso curso1 = new Curso("Curso java", "Descrição curso java", 8);
